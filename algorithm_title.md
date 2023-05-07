@@ -1,2 +1,1 @@
 1. [Two Sum](https://leetcode.com/problems/two-sum/description/)(13:35)
-[Two Sum](https://leetcode.com/problems/two-sum/description/) 
